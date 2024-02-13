@@ -155,16 +155,16 @@ width: 46%;
   height: 100%;
 }
 .background-1 {
-  background-image: url('../Assets/Blue Shape.svg');
+  background-image: url('./Assets/Blue Shape.svg');
   transform: rotate(-45deg);
 
 }
 .background-2 {
-  background-image: url('../Assets/Pink Shape.svg');
+  background-image: url('./Assets/Pink Shape.svg');
   transform: rotate(-30deg);
 }
 .background-3 {
-  background-image: url('../Assets/Purple Shape.svg');
+  background-image: url('./Assets/Purple Shape.svg');
   transform: rotate(-10deg);
 }
 .right-side img {
